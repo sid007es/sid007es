@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **I’m currently learning flutter and firebase**
 
-- 💬 Ask me about **Ask me about anything related to Python and java**
+- 💬 Ask me about **anything related to Python and Java**
 
 - 📫 How to reach me **Sidharthes007@gmail.com**
 
