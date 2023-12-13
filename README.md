@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidharth E S</h1>
-<h3 align="center">I'm Sidharth, a computer science student currently focused on being a frontend developer🚀</h3>
+<h3 align="center">Crafting Code and Building Dreams 💻✨🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid007es&label=Profile%20views&color=f4aa0b&style=plastic" alt="sid007es" /> </p>
 
